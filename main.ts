@@ -7,6 +7,8 @@
 // is not handed from one to the other; it appears only when both agree the
 // road is theirs. That is the whole argument of the poem: agency is not a
 // thing you give away or take back, it is a thing two hands make together.
+// The em-dash in line two is doing sound work, not decoration: it holds the
+// sentence open a beat, the pause where the second agent answers the first.
 //
 // The poem is fixed text, written by this program to /output/entry.txt.
 // Deterministic: the same bytes on every run. No network, standard library
